@@ -1,4 +1,6 @@
 # 分布式选课系统
+![1](https://user-images.githubusercontent.com/58248490/173798767-7115d350-985d-477e-bf59-e6af9af40afb.png)
+
 
 
 ## 编译
@@ -194,8 +196,3 @@ Content-length: 48
 
 
 ```
-
-## Store Server使用步骤
-由于用户所需的功能都可以通过web服务器与Store Server间的交互完成，所以我们没有单独提供用户和Store Server的交互
-
-我们使用了开源框架实现的Store Server，框架地址为：https://github.com/RemHero/ReUp-DateBase-Raft
